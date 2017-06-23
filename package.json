@@ -1,0 +1,15 @@
+{
+  "name": "typescriptsbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Cstudent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-webdriver": "^3.4.0"
+  }
+}
